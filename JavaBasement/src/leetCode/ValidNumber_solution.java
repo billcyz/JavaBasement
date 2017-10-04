@@ -8,11 +8,13 @@ package leetCode;
 //"2e10" => true
 
 public class ValidNumber_solution {
-
+	public static void main(String[] args) {
+		System.out.println("hello");
+	}
 }
 
-class ValidNumberSolution {
-    public boolean isNumber(String s) {
-        
-    }
-}
+//class ValidNumberSolution {
+//    public boolean isNumber(String s) {
+//        
+//    }
+//}

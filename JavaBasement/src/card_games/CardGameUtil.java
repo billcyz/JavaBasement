@@ -26,7 +26,7 @@ public class CardGameUtil {
 
 	// get game collection information
 	// and load info into displayGameCollectionInfo()
-	static boolean loadGameCollectionInfo() {
+	private static boolean loadGameCollectionInfo() {
 		
 		
 		return true;
@@ -39,7 +39,5 @@ public class CardGameUtil {
 		System.out.printf("[%s] Message: %s", dateFormat.format(date), message);
 	}
 	
-	public static void main(String[] args) {
-		// do nothing...
-	}
+	
 }
